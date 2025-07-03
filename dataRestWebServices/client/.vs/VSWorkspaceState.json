@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\authors",
+    "\\src\\app\\books\\model"
+  ],
+  "SelectedNode": "\\src\\app\\authors\\authors.component.spec.ts",
+  "PreviewInSolutionExplorer": false
+}

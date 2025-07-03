@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\server",
+    "\\server\\src",
+    "\\server\\src\\main",
+    "\\server\\src\\main\\kotlin",
+    "\\server\\src\\main\\kotlin\\seg3x02",
+    "\\server\\src\\main\\kotlin\\seg3x02\\booksrestapi",
+    "\\server\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\server\\src\\main\\kotlin\\seg3x02\\booksrestapi\\BooksRestApiApplication.kt",
+  "PreviewInSolutionExplorer": false
+}

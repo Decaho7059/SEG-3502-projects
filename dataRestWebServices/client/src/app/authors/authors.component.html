@@ -1,0 +1,15 @@
+<div class="form-container">
+  <h2>Search for Author</h2>
+  <form (submit)="searchAuthor()">
+    <input type="text" [(ngModel)]="authorId" placeholder="Enter Author ID" required />
+    <button type="submit">Search</button>
+  </form>
+  <div *ngIf="authorData; else notFound">
+    <h3>Author Details</h3>
+    <p>First Name: {{ authorData.firstName }}</p>
+    <p>Last Name: {{ authorData.lastName }}</p>
+  </div>
+  <ng-template #notFound>
+    <p *ngIf="message">{{ message }}</p>
+  </ng-template>
+</div>
